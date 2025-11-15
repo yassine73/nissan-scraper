@@ -1,0 +1,19 @@
+# FastAPI Framework
+fastapi
+uvicorn
+
+# Production Server
+gunicorn
+
+# Web Scraping
+
+
+# Database (Optional - uncomment if needed)
+
+
+# Environment Variables
+
+
+# Data Validation
+pydantic
+pydantic-settings
